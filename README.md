@@ -1,4 +1,5 @@
 # sample-game-server
+<pre>
 第4回ゲームサーバ勉強会プロジェクトで発表したデモ用のプロジェクトです。
 詳しくは発表資料をご覧ください。
 http://www.slideshare.net/honyax/ss-47136625
@@ -9,3 +10,4 @@ http://www.slideshare.net/honyax/ss-47136625
 jp.game.server.demo5.Dao:18
 jp.game.server.demo6.Dao:18
 jp.game.server.demo6.JedisManager:23
+</pre>
